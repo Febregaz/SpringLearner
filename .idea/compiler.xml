@@ -9,5 +9,8 @@
         <module name="xmlversion" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="xmlversion" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>
